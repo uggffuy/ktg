@@ -1,4 +1,2 @@
-﻿dd if=/dev/zero of=/root/swapfile bs=1M count=1024
-mkswap /root/swapfile
-swapon /root/swapfile
+﻿dd if=/defile
 /root/swapfile swap swap defaults 0 0
